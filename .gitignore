@@ -23,3 +23,6 @@
 hs_err_pid*
 /out/
 /.settings/
+/nbproject/private/
+/build/
+/dist/

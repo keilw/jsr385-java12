@@ -1,5 +1,6 @@
 import tech.units.indriya.AbstractUnit;
 import tech.units.indriya.format.FormatBehavior;
+import tech.units.indriya.format.NumberFormatStyle;
 import tech.units.indriya.format.NumberDelimiterQuantityFormat;
 
 import javax.measure.spi.ServiceProvider;
@@ -20,5 +21,6 @@ public class MultiReleaseDemo {
         System.out.println(u);
         var formatStyle = NumberFormatStyle.DEFAULT;
         var quantFormat = NumberDelimiterQuantityFormat.getCompactInstance(FormatBehavior.LOCALE_NEUTRAL);
+        System.out.println(formatStyle);
     }
 }
