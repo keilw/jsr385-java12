@@ -3,11 +3,15 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
+	<parent>
+		<groupId>tech.uom.demo.console</groupId>
+		<artifactId>uom-console-demos</artifactId>
+		<version>2.0</version>
+	</parent>
 	<groupId>tech.uom.demo.console</groupId>
 	<name>JSR385-Java12</name>
 	<description>Java 12 Demos for JSR 385</description>
 	<artifactId>jsr385-java12</artifactId>
-	<version>1.0</version>
 
 	<!-- ======================================================= -->
 	<!-- Build Settings -->
