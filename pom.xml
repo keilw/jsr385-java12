@@ -13,7 +13,7 @@
 	<!-- Build Settings -->
 	<!-- ======================================================= -->
 	<properties>
-		<jdkVersion>12</jdkVersion>
+		<jdkVersion>13</jdkVersion>
 		<sourceEncoding>UTF-8</sourceEncoding>
 		<project.build.javaVersion>${jdkVersion}</project.build.javaVersion>
 		<maven.compile.targetLevel>${jdkVersion}</maven.compile.targetLevel>
