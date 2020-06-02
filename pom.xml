@@ -7,7 +7,7 @@
 	<name>JSR385-Java12</name>
 	<description>Java 12 Demos for JSR 385</description>
 	<artifactId>jsr385-java12</artifactId>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.0</version>
 
 	<!-- ======================================================= -->
 	<!-- Build Settings -->
