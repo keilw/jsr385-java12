@@ -23,6 +23,7 @@
 hs_err_pid*
 /out/
 /.settings/
+/.idea/
 /nbproject/private/
 /build/
 /dist/
